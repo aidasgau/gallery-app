@@ -163,3 +163,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Configs
+config.json
+venv/
+
+# Development dummy files
+static/dummy_images/
+
